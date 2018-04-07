@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ForegroundServiceExample</string>
+    <string name="locationservice_notification_isrecording">Route started</string>
+    <string name="locationservice_notificationchannel_name">Routes</string>
+    <string name="locationservice_notificationchannel_description">Info about started routes</string>
+</resources>
